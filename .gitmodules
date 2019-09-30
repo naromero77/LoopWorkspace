@@ -33,3 +33,4 @@
 [submodule "MKRingProgressView"]
 	path = MKRingProgressView
 	url = https://github.com/LoopKit/MKRingProgressView.git
+	branch = appex-safe
