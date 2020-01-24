@@ -12,6 +12,14 @@ git clone --branch=<branch> --recurse-submodules https://github.com/LoopKit/Loop
 
 Replace `<branch>` with the initial LoopWorkspace repository branch you wish to checkout.
 
+## Clear cache manually
+
+```
+
+rm -rf ~/Library/Developer/Xcode/DerivedData/
+
+```
+
 ## Open
 
 Change to the cloned directory and open the workspace in Xcode:
